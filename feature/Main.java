@@ -1,6 +1,7 @@
-public class Main{
-public static void main(String[] args){
-  System.out.println("Hii")
-}
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Hii");
+  }
 
 }
+// This file was modified locally.
